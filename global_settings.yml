@@ -1,0 +1,3 @@
+object_type: global_settings
+overrides:
+    "redis.parallelism.cpu_bound": 5
