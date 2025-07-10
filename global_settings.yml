@@ -1,5 +1,5 @@
 object_type: global_settings
 overrides:
     "xmla.auth.token.enabled": true
-    "schema.hintedUserDefinedAggregates.nonFactTables.enabled": true
     "cluster.eventbus.entrylimit": 200
+    "thrift.port": 11111
